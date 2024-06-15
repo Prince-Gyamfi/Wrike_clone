@@ -2,17 +2,17 @@
 
 [Live Site](https://wrike-clone-mu.vercel.app/)  
 
-Hello there,
+Hello there!
 
-This is a clone of a project management website called Wrike. You can create and manage your project here. Project that I made using HTML, CSS, JavaScript for frontend and Express, NodeJS, and MongoDB for the backend. It was an individual project built and executed in 5 days.
-I built this project in 4 Days and I use the following tech stacks to build this project:-
+Welcome to my project—a clone of the popular project management website, Wrike. This platform allows you to create and manage your projects with ease. I've designed and built this application using HTML, CSS, and JavaScript for the front end, ensuring a user-friendly interface and responsive design. For the backend, it utilizes Express, Node.js, and MongoDB to handle data management and server-side logic efficiently.
 
-    ● HTML
-    ● CSS
-    ● Javascript
-    ● NodeJS
-    ● Express
-    ● MongoDB
+
+   ● HTML
+   ● CSS
+   ● Javascript
+   ● NodeJS
+   ● Express
+   ● MongoDB
 
 ● Home Page (index.html , index.css &  index.js) :
 
