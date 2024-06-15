@@ -7,12 +7,12 @@ Hello there!
 Welcome to my project—a clone of the popular project management website, Wrike. This platform allows you to create and manage your projects with ease. I've designed and built this application using HTML, CSS, and JavaScript for the front end, ensuring a user-friendly interface and responsive design. For the backend, it utilizes Express, Node.js, and MongoDB to handle data management and server-side logic efficiently.
 
 
-   ● HTML
-   ● CSS
-   ● Javascript
-   ● NodeJS
-   ● Express
-   ● MongoDB
+    ● HTML
+    ● CSS
+    ● Javascript
+    ● NodeJS
+    ● Express
+    ● MongoDB
 
 ● Home Page (index.html , index.css &  index.js) :
 
